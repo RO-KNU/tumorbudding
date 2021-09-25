@@ -14,8 +14,7 @@
 #   "I am a medical doctor (more specifically, a radiation oncologist) who has much interest on data science."
 
 # Statement:
-#   This file is part of shpark's D-lab dedicated to serve precision medicine 
-#   to our patients.
+#   This file is part of shpark's D-lab dedicated to serve our patients better treatment.
 #   --> Copyright (C) 2021 Shin-Hyung Park
 #       All rights reserved. 
 
