@@ -21,7 +21,6 @@
   
 library(caret)
 library(glmnet)
-library(pROC)
 library(kernlab) 
 library(neuralnet)
 library(randomForest) 
