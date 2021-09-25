@@ -21,8 +21,6 @@
   
 library(caret)
 library(glmnet)
-library(survival)
-library(psych)
 library(pROC)
 library(kernlab) 
 library(neuralnet)
